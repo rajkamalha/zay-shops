@@ -1,0 +1,433 @@
+.top{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.left i{
+    color: aliceblue;
+    margin-top: 16px;
+    margin-left: 80px;
+}
+.mid a:hover{
+    color: #43ca87;
+}
+.left p{
+    color: aliceblue;
+    margin-left: 8px;
+}
+.left{
+    display: flex;
+    line-height: -6px;
+}
+.righ{
+    float: right;
+    
+    height: 20px;
+    width: 100px;
+    margin-top: -40px;
+    margin-left: -100px;
+    padding: 10px;
+}
+.righ i{
+    margin-top: -200px;
+    padding-bottom: 60px;
+    color: rgb(216, 219, 223);
+    margin-left: 6px;
+}
+.sec{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(253, 254, 255);
+    
+    
+}
+.let{
+    
+    width: 90px;
+    margin-top: -10px;
+    height: 100px;
+    text-align: center;
+    margin-left: 120px;
+}
+.let h1{
+    font-size: 48px;
+    font-weight: 500;
+    font-family:'Roboto', sans-serif;
+    color: #59ab6e;
+
+}
+.mid{
+    width: 700px;
+    
+    height: 40px;
+    margin-top: -80px;
+    margin-left: 300px;
+    
+}
+.mid a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 100px;
+    color: black;
+}
+.ric{
+    height: 50px;
+    width: 150px;
+    
+    font-size: 20px;
+    float: right;
+    margin-top: -40px;
+}
+.ric i{
+    margin-left: 20px;
+}
+.home{
+    
+    height: 600px; 
+    background-color: #f0f0f3;
+}
+.home img{
+    max-width:100%;
+    height: auto;
+    margin-left: 730px;
+    height: 600px;
+    
+}
+.para{
+    height: 350px;
+    width: 426px;
+    
+    margin-top: -500px;
+    margin-left: 120px;
+    line-height: 35px;
+    text-align:left
+}
+.para h1{
+    font-size: 50px;
+    font-family:'Roboto', sans-serif ;
+    font-weight: 500;
+    color: #59ab6e;
+}
+.para h2{
+    font-size: 35px;
+    font-weight: 300;
+    color: rgb(87, 87, 92);
+
+}
+.para p{
+    font-size: 19px;
+    line-height: 30px;
+    color: #555252;
+}
+.para a{
+    color: #59ab6e ;
+}
+.cat{
+    
+    width:550px;
+    line-height: 20px;
+
+}
+.cat h1{
+    font-size: 50px;
+    font-weight: 50;
+    text-align: center;
+    color: #555252;
+
+}
+.cat p{
+    font-size: 20px;
+    text-align:center;
+    color: #555252;
+
+    
+}
+.cate{
+    
+    height: 500px;
+    display: flex;
+}
+.wat{
+    
+    width: 400px;
+    height: 440px;
+    margin-left: 50px;
+    
+    
+}
+
+    
+
+.wat img{
+
+    width: 360px;
+    height: 330px;
+    border-radius: 50%;
+    margin-left: 14px;
+
+
+}
+.wat h2{
+    text-align: center;
+}
+.wat button{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    background-color: #51c56e;
+    color: #f0f0f3;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+.catt{
+    
+    width:550px;
+    line-height: 20px;
+    position: relative;
+    margin-left: 400px;
+    margin-top: 70px;
+    position:absolute;
+    z-index: 1;
+    
+
+
+}
+.catt h1{
+    font-size: 40px;
+    font-weight: 50;
+    text-align: center;
+    color: #555252;
+
+}
+.catt p{
+    font-size: 20px;
+    text-align:center;
+    color: #555252;
+
+    
+}
+.tor{
+    
+    height: 900px;
+    display: flex;
+    
+    position: relative;
+    background-color: #e3ecf7;
+    
+}
+.torc{
+    
+    width: 360px;
+    height: 560px;
+    margin-top: 250px;
+    margin-left: 60px;
+    background-color:white;
+    
+}
+.torc img{
+   width: 360px;
+    height: 300px;
+}
+.torc h3{
+    float: right;
+    margin-top: -1px;
+    font-size: 25px;
+    color: #463d3d;
+    margin-left: -100px;
+    margin-right: 10px;
+
+}
+.torc i{
+   font-size: 25px; 
+   color: rgb(235, 235, 24);
+}
+.torc h1{
+    font-weight: 500;
+    font-size: 35px;
+    color: #463d3d;
+    word-wrap:normal;
+    margin-left: 10px;
+}
+.torc p{
+font-size: 20px;
+text-align: left;
+margin-top: -20px;
+color: #463d3d;
+margin-left: 10px;
+
+}
+.torc h4{
+    font-size: 23px;
+    color: #a6aaa8;
+    font-weight: 500;
+    margin-left: 10px;
+
+
+}
+.zay{
+    
+    height: 400px;
+    display: flex;
+    background-color: #212529;
+
+}
+.zayy{
+    
+    width: 400px;
+    height: 280px;
+    margin-left: 70px;
+}
+.zayy h1{
+    font-size: 38px;
+    font-family:'Roboto', sans-serif;
+    color: #59ab6e;
+    
+
+
+
+}
+.zayy hr{
+    height: 1px;
+    background-color: #323a36;
+    border: none;
+}
+.zayyy hr{
+    height: 1px;
+    background-color: #323a36;
+    border: none;
+
+}
+
+.zayy i{
+    font-size: 25px;
+    color:#cfd6e1;
+}
+.zayy p{
+    font-size: 20px;
+    margin-left: 28px;
+    margin-top: -25px;
+    color:#cfd6e1;
+
+}
+.zayy p:hover{
+    color: #51c56e;
+}
+.zayyy{
+    
+    width: 400px;
+    height: 380px;
+    margin-left: 30px;
+}
+.zayyy h1{
+    font-size: 38px;
+    font-family:'Roboto', sans-serif;
+    color: rgb(226, 226, 226);
+    font-weight: 500;
+}
+.zayyy a{
+    font-size: 20px;
+    line-height: 40px;
+    text-decoration: none;
+    color:#cfd6e1;
+
+}
+.zayyy a:hover{
+    color: #51c56e;
+}
+.bef{
+    margin-top: -10px;
+    height: 100px;
+    background-color: #212529;
+    
+}
+.beff button{
+    font-size: 40px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background-color: #212529;
+    border: 1px ridge#cfd6e1;
+    
+}
+.beff i{
+    font-size: 30px;
+    color:#cfd6e1;
+}
+.beff i:hover{
+    color: #212529;
+}
+.beff button:hover{
+    background-color:#cfd6e1 ;
+}
+.beff{
+    
+    width: 300px;
+    height: 90px;
+    float: left;
+    margin-left: 100px;
+}
+.befff{
+    
+    height: 70px;
+    width: 390px;
+    float:left ;
+    margin-left: 500px;
+}
+.befff input{
+    width: 250px;
+    height: 35px;
+    font-size: 19px;
+    margin-top: 10px;
+    position: relative;
+    background-color: #212529;
+    border: 1px ridge gray;
+    
+    
+}
+.befff button{
+    height: 43px;
+    width: 100px;
+    position: absolute;
+    margin-top: 9px;
+    margin-left: -10px;
+    font-size: 20px;
+    color:#e3ecf7 ;
+    background-color: #51c56e;
+    border: none;
+    border-radius: 4px;
+    
+    
+    
+    
+}
+.bef hr{
+    width: 1200px;
+    
+    height: 1px;
+    background-color: #323a36;
+    border: none;
+}
+.black{
+    height: 80px;
+    background-color: rgb(12, 11, 11);
+    margin-top: -20px;
+}
+.black p,a{
+    color:#e3ecf7 ;
+    font-size: 20px;
+    padding-top: 17px;
+    
+    
+}
+.black p{
+    margin-left: 70px;
+}
+.black a:hover{
+    color: #43ca87;
+}
+
+
+
+
